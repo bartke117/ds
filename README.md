@@ -35,3 +35,6 @@ Random Forest osiągnął znacznie lepsze wyniki niż regresja liniowa.
 Powierzchnia i liczba pokoi są kluczowe dla ceny mieszkania.
 Cena mniejszych mieszkań za metr kwadratowy jest wyższa niż większych mieszkań.
 Najbardziej powszechne są oferty dotyczące mieszkań 2 i 3 pokojowych.
+
+Aby uruchomić wizualizację należy użyć linku:
+https://kfzemcvdcnk5l8kfldpevo.streamlit.app/
